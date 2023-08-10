@@ -5,4 +5,4 @@
  <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoichiEndo323&theme=onedark&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KoichiEndo323&theme=onedark)](https://github.com/KoichiEndo323/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KoichiEndo323&theme=onedark&column=7)](https://github.com/KoichiEndo323/github-profile-trophy)
